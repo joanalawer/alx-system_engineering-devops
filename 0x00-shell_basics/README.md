@@ -22,4 +22,4 @@
 
 10-back: Changes the working directory to the previous one.
 
-
+11-lists: This script command lists all files in the current in the current directory and the parent of the working directory and the root directory in long format. 

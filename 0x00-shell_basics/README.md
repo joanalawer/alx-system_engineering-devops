@@ -18,6 +18,8 @@
 
 8-firstdelete: Deletes the firle betty from its directory.
 
-9-firstdeletion: Deletes the directorythat is in the tmp directory.
+9-firstdirdeletion: Deletes the directorythat is in the tmp directory.
+
+10-back: Changes the working directory to the previous one.
 
 

@@ -26,4 +26,6 @@
 
 12-file_type: This script prints the type of a given file.
 
+13-symbolic_link: The symbolic link in the current working directory links /bin/s to __ls__.
+
  

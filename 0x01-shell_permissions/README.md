@@ -18,4 +18,6 @@
 
 8-James_Bond: Write a script that sets the permission to tthe file hello as; Owner:no permission at all, Group:no permission at all, Other users:all the permission.
 
-9-
+9-John_Doe: The script sets the mode of the file hello to rwxr-x-wx.
+
+

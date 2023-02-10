@@ -28,4 +28,8 @@
 
 13-symbolic_link: The symbolic link in the current working directory links /bin/s to __ls__.
 
-14-copy_html: Coppies all files with extension .html form current directory to the parent directory. 
+14-copy_html: Coppies all files with extension .html form current directory to the parent directory.
+
+1000-lets_move: A script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+101 

@@ -38,4 +38,4 @@
 
 103-commas: This script command lists all files and directories separating them by commas, ending dir with /, and listing is alpha ordered.
 
-school.mgc:  
+school.mgc: Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.

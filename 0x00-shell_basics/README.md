@@ -36,6 +36,6 @@
 
 102-tree: Creates a script that creates a tree of two directories with one file in the inner directory.
 
-103-commas:
+103-commas: This script command lists all files and directories separating them by commas, ending dir with /, and listing is alpha ordered.
 
 school.mgc:  

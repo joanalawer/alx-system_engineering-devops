@@ -42,4 +42,6 @@ Requirements:One file per line. Sorted from the newest to the oldest.
 
 20-hiago: This script removes all letters c and C from input.
 
+21-reverse: Script reverses its input.
 
+22

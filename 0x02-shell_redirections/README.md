@@ -7,4 +7,6 @@
 
 3-twofiles: Dis[paly the content of /etc/passwd and /etc/hosts
 
- 
+4-lastlines: Displays the last 10 lines of etc/passwd
+
+

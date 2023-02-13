@@ -13,4 +13,6 @@
 
 6-third_line: Script dispalys the third line of the file iacta.
 
+7-file: Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
 

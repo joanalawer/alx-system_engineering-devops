@@ -32,5 +32,7 @@ Requirements:One file per line. Sorted from the newest to the oldest.
 
 15-countthatword: Display the number of lines that contain the pattern “bin” in the file /etc/passwd.
 
-16
+16-whatsnext: Displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+
 

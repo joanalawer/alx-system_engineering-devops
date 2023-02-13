@@ -40,4 +40,6 @@ Requirements:One file per line. Sorted from the newest to the oldest.
 
 19-AZ: Replace all characters A and c from input Z and e respectively.
 
-20
+20-hiago: This script removes all letters c and C from input.
+
+

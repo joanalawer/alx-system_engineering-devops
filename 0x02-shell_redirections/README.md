@@ -38,4 +38,6 @@ Requirements:One file per line. Sorted from the newest to the oldest.
 
 18-letteronly: Displays all lines of the file /etc/ssh/sshd_config starting with a letter. Include capital letters as well.
 
-19
+19-AZ: Replace all characters A and c from input Z and e respectively.
+
+20

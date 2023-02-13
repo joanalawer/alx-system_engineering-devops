@@ -30,4 +30,7 @@ Requirements:One file per line. Sorted from the newest to the oldest.
 
 14-findthatword: Displays lines containing the pattern "root" from the file /etc/passwd.
 
-15
+15-countthatword: Display the number of lines that contain the pattern “bin” in the file /etc/passwd.
+
+16
+

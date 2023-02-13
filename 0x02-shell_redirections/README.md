@@ -36,4 +36,6 @@ Requirements:One file per line. Sorted from the newest to the oldest.
 
 17-hidethisword: Displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
-18
+18-letteronly: Displays all lines of the file /etc/ssh/sshd_config starting with a letter. Include capital letters as well.
+
+19

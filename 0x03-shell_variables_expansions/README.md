@@ -10,4 +10,6 @@
 
 4-global_variables: Script lists environment variables.
 
-```
+5-local_variables: Script lists all local variables and environment variables, and functions.
+
+

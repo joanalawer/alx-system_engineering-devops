@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d -name $PATH | wc -l
+find $PATH maxdepth 1000 -type d -print| wc -l
